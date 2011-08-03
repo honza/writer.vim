@@ -1,0 +1,21 @@
+*writer.txt*  A vim plugin for writing prose
+
+Author: Honza Pokorny <me@honza.ca> *writer-author*
+License: BSD license
+
+INTRODUCTION                                    *writer*
+
+writer.vim is a plugin to help you write prose in vim. It will give you a
+bigger font, change it to Monaco, set the text widths to 3 alphabets (75
+characters), increase the linespacing, turn off line numbers and the status
+bar.
+
+COMMANDS                                        *writer-commands*
+
+:WriterToggle 
+
+ABOUT                                           *writer-about*
+
+Inspired by the amazing IA Writer for Mac/iPad.
+
+ vim:tw=78:et:ft=help:norl:
