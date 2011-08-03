@@ -25,6 +25,9 @@ Usage
 
 Run ``:WriterToggle`` to toggle the writing settings.
 
+**Note**: the plugin doesn't work in terminal vim. Please use MacVim, gVim and
+the like.
+
 Contributing and feedback
 -------------------------
 

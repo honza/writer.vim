@@ -10,6 +10,10 @@ bigger font, change it to Monaco, set the text widths to 3 alphabets (75
 characters), increase the linespacing, turn off line numbers and the status
 bar.
 
+Note: the plugin doesn't work in terminal vim. Please use MacVim, gVim and the
+like.
+
+
 COMMANDS                                        *writer-commands*
 
 :WriterToggle 
