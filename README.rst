@@ -8,4 +8,4 @@ bar.
 
 Inspired by the amazing IA Writer for Mac/iPad.
 
-.. image:: public/screen.jpg
+.. image:: https://github.com/honza/writer.vim/raw/master/public/screen.jpg
