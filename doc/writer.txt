@@ -1,7 +1,10 @@
 *writer.txt*  A vim plugin for writing prose
 
+=============================================================================
 Author: Honza Pokorny <me@honza.ca> *writer-author*
 License: BSD license
+
+=============================================================================
 
 INTRODUCTION                                    *writer*
 
@@ -14,9 +17,13 @@ Note: the plugin doesn't work in terminal vim. Please use MacVim, gVim and the
 like.
 
 
+=============================================================================
+
 COMMANDS                                        *writer-commands*
 
 :WriterToggle 
+
+=============================================================================
 
 ABOUT                                           *writer-about*
 
